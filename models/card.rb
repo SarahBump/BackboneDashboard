@@ -1,1 +1,3 @@
-class Card 
+class Card < ActiveRecord::Base
+
+end

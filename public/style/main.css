@@ -26,6 +26,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2px;
   position: relative;
   width: 46%;
+  background-color: red;
 }
 
 .block-third {
@@ -35,6 +36,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2px;
   position: relative;
   width: 30%;
+  background-color: blue;
 }
 
 .block-quarter {
@@ -44,6 +46,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2px;
   position: relative;
   width: 22%;
+  background-color: green;
 }
 
 .shadow {

@@ -49,7 +49,6 @@ $(document).ready(function(event) {
     }
   });
 
-
   var data = { title: "Title 1 for half", message: "Content 1 half"}
   var halfOne = new HalfCardView(data);
 
@@ -68,5 +67,4 @@ $(document).ready(function(event) {
 
   var data = { title: "Title 2 for Third", message: "Content 2 half"};
   var ThirdTwo = new ThirdCardView(data);
-
 });
